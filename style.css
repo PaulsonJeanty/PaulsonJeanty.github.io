@@ -209,6 +209,11 @@ body {
   width: 100%;
 }
 
+.gif-man{
+  height: 100%;
+  width: 100%;
+}
+
 .card {
   background-color: transparent !important;
   position: relative;
